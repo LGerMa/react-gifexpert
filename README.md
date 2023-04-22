@@ -1,1 +1,3 @@
 # GifExpertApp
+
+# Author
